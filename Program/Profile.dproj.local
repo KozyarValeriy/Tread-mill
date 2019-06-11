@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.977,=C:\Users\monqp_000\Desktop\НИРС\Prog\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.195,C:\Users\monqp_000\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\monqp_000\Desktop\НИРС\Prog\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.121,=C:\Users\monqp_000\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.366,C:\Users\monqp_000\Desktop\НИРС\Prog\Unit1.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.974,C:\Users\monqp_000\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\monqp_000\Desktop\НИРС\Prog\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.401,C:\Users\monqp_000\Desktop\НИРС\Prog\Unit1.dfm=C:\Users\monqp_000\Desktop\НИРС\Prog\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.401,C:\Users\monqp_000\Desktop\НИРС\Prog\Unit1.pas=C:\Users\monqp_000\Desktop\НИРС\Prog\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.195,C:\Users\monqp_000\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\monqp_000\Desktop\НИРС\Prog\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.153,C:\Users\monqp_000\Desktop\НИРС\Prog\Profile.dproj=C:\Users\monqp_000\Desktop\НИРС\Prog\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.786,C:\Users\monqp_000\Desktop\НИРС\Prog\Project2.dproj=C:\Users\monqp_000\Desktop\НИРС\Prog\Profile.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.579,C:\Users\monqp_000\Desktop\НИРС\Prog\Project2.dproj=C:\Users\monqp_000\Desktop\НИРС\Prog\Profile.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.577,=C:\Users\monqp_000\Desktop\НИРС\Prog\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.684,=C:\Users\monqp_000\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.269,=C:\Users\monqp_000\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.706,=C:\Users\monqp_000\Desktop\НИРС\Prog\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

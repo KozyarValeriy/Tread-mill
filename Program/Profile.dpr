@@ -1,0 +1,17 @@
+program Profile;
+
+uses
+  Vcl.Forms,
+  Unit3 in 'Unit3.pas' {Form3},
+  Unit1 in 'Unit1.pas' {Form2};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.Title := 'Профиль';
+  Application.CreateForm(TForm3, Form3);
+  Application.CreateForm(TForm2, Form2);
+  Application.Run;
+end.
